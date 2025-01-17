@@ -147,7 +147,7 @@ fastapi-kubernetes/
 ---
 
 ## Authors
-- **Your Name**: [GitHub Profile](https://github.com/<your-username>)
+- **Yassine**: [GitHub Profile](https://github.com/crazydev-art)
 ```
 
 You can edit `<your-dockerhub-username>`, `<your-mysql-username>`, `<your-mysql-password>`, and `<your-database-name>` with your actual values. Additionally, replace `<your-username>` with your GitHub username.
