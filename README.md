@@ -1,4 +1,3 @@
-Here is an updated `README.md` file with detailed steps to deploy your FastAPI solution on Kubernetes:
 
 ```markdown
 # FastAPI Kubernetes Deployment
